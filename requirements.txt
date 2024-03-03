@@ -1,4 +1,2 @@
-pandas
-numpy
-streamlit
-pickle
+numpy  1.26.3
+streamlit 1.30.0
