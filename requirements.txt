@@ -1,2 +1,8 @@
-numpy  1.26.3
-streamlit 1.30.0
+numpy  
+streamlit
+pandas
+scikit-learn
+matplotlib
+seaborn
+plotly
+pickle
